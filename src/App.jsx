@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { toast, ToastContainer } from "react-toastify"
-
+import "react-toastify/dist/ReactToastify.css"
 import { motion, AnimatePresence } from "framer-motion"
 
 // Import icons from a CDN to keep everything in one file
